@@ -1,1 +1,4 @@
 # Student_Score
+# One project that stands as a testament to my Python skills involved a comprehensive analysis of a student performance dataset. This project encompassed data cleaning, exploration, transformation, and visualization, aiming to uncover insights into the factors affecting student scores, such as gender distribution, parental education levels, and marital status.
+
+# A highlight of this project was my detailed investigation into the impact of parental education on student performance. Utilizing Python's powerful libraries such as Pandas for data manipulation and Matplotlib and Seaborn for creating heatmaps and other visualizations, I was able to reveal a clear correlation between parental education levels and students' academic achievements in subjects like math, reading, and writing. This analysis not only showcased my technical skills in Python but also my ability to derive meaningful insights from complex data sets
